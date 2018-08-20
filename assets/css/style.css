@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url("../images/");
+    color: black;
+    font-size: 14px;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.btn {
+    margin: 5px;
+    margin-left: 0px;
+}
+img {
+    margin: 10px;
+    margin-bottom: 0;    
+}
+#giphyDiv {
+
+}
+.giphy {
+    float: left;
+}
